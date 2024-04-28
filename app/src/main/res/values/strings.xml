@@ -1,0 +1,15 @@
+<resources>
+    <string-array name="angkatan_array">
+        <item>Pilih Angkatan</item>
+        <item>2024</item>
+        <item>2023</item>
+        <item>2022</item>
+        <item>2021</item>
+        <item>2020</item>
+        <item>2019</item>
+        <item>2018</item>
+        <item>2017</item>
+    </string-array>
+
+    <string name="app_name">Evaluasi333</string>
+</resources>
